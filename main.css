@@ -1,0 +1,19 @@
+/*main {*/
+/*    background-image: url("bg.jpg");*/
+/*    background-color: #cccccc;*/
+/*    min-height: 800px;*/
+/*    display: flex;*/
+/*    flex-direction: column;*/
+/*    align-content: center;*/
+/*}*/
+main {
+    background-image: url("bg.jpg");
+    background-color: #291b72;
+    min-height: 1000px;
+}
+#gdev-logo {
+    margin: -200px 0px 0px -50px;
+}
+/*#container h1, h2, h3 {*/
+/*    text-col*/
+/*}*/
